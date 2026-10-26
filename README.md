@@ -64,7 +64,7 @@ The table below outlines category-leading commercial platforms sorted descending
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source software for building sovereign CMDBs, internal developer catalogs, and automated dependency graph visualizers—**sorted descending by GitHub star count**.
+Curated open-source software for building sovereign CMDBs, internal developer catalogs, and automated dependency graph visualizers—**sorted descending by GitHub Stars_Count**.
 
 1. **[Backstage](https://github.com/backstage/backstage)** [![Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers)  
    *CNCF Graduated Developer Portal by Spotify (TypeScript / React / Node.js)*  
@@ -174,7 +174,7 @@ Contributions to this ecosystem are warmly welcomed! To suggest a new tool or up
 2. **Add or modify entries** in [`README.md`](file:///C:/Users/hp/Documents/Projects/Awesome-Service-Mapping/README.md) following the established tabular format (SaaS) or star-sorted list (Open-Source).
 3. **Ensure strict data accuracy**:
    - Provide concrete starting prices and exact free trial / free tier limits.
-   - For open-source tools, include the standard shields.io star badge linking to `/stargazers`.
+   - For open-source tools, include the standard shields.io Stars_Badge linking to `/stargazers`.
 4. **Submit a Pull Request** with a brief summary of your additions.
 
 ---
